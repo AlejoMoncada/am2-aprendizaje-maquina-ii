@@ -3,6 +3,8 @@
 **Maestría en Inteligencia Artificial**  
 Actividades del curso: Métodos de Kernel, Perceptrón Multicapa y Proyecto Aplicado.
 
+> **Repositorio:** https://github.com/AlejoMoncada/am2-aprendizaje-maquina-ii
+
 ---
 
 ## Estructura del repositorio
